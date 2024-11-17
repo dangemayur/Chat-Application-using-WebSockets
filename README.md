@@ -1,7 +1,7 @@
 Chat Application using WebSocketsb
 Welcome to the Chat Application built with WebSockets using Node.js, Express, and Socket.io! This project allows real-time user communication with features like message broadcasting, user count display, and instant updates.
 
-🚀 Features
+Features -
 Real-time messaging: Messages are delivered instantly to all connected users.
 User count: Displays the total number of active clients connected to the chat.
 Typing notifications: See when someone is typing a message.
